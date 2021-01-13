@@ -1,0 +1,37 @@
+* {
+    /* background-color: white; */
+}
+
+header img {
+    width: 20%;
+    border-radius: 50%;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: none;
+    width: 150px;
+}
+
+.plan {
+    background-color: rgb(255, 60, 0);
+}
+.learn {
+    background-color: rgb(0, 174, 255);
+}
+.get {
+    background-color: rgb(255, 208, 0);
+}
+footer {
+    display: block;
+}
